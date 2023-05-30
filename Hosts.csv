@@ -1,0 +1,5 @@
+IP,Username,Password,Secret,Port,IOS
+172.16.12.128,,,,5002,cisco_ios_telnet
+172.16.12.128,,,,5000,cisco_ios_telnet
+172.16.12.128,,,,5001,cisco_ios_telnet
+172.16.12.128,,,,5003,cisco_ios_telnet
